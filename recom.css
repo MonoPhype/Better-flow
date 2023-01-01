@@ -1,0 +1,14 @@
+.ratio{
+display:inline-block;width:100px;height:2px;background:#A9B5E8;position:absolute;
+margin-top:-4px;
+}
+.ratio2{
+display:inline-block;width:20px;height:2px;background:#534D57;position:absolute;
+margin-top:-4px;
+}
+.videos{
+margin-top:21px;
+}
+.per_channel{
+margin-top:-6px;
+}
