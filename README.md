@@ -10,8 +10,6 @@ Not every line has to be a URL.
 
 Run `scrape.py`
 
-Uploads from specified channels are in:
-  - `subsc.html`
+Uploads from specified channels are in `subsc.html`.
 
-Recommended Youtube videos are in:
-  - `recom.html`
+Recommended Youtube videos are in `recom.html`.
